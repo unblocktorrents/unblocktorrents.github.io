@@ -1,10 +1,12 @@
 .u-section-1 {background-image: none}
 .u-section-1 .u-sheet-1 {min-height: 938px}
-.u-section-1 .u-text-1 {width: 780px; font-family: Audiowide; font-weight: normal; margin: 60px auto 0}
+.u-section-1 .u-text-1 {width: 780px; font-family: Audiowide; font-weight: normal; margin: 40px auto 0}
 .u-section-1 .u-text-2 {font-size: 1.25rem; background-image: none; width: 780px; font-weight: 300; margin: 12px auto 0}
 .u-section-1 .u-btn-1 {background-image: none; text-transform: uppercase; font-size: 1.125rem; letter-spacing: 2px; margin: 38px auto 60px 489px; padding: 6px 24px 7px 23px} 
 
 @media (max-width: 1199px){ .u-section-1 .u-btn-1 {margin-left: 289px} }
+
+@media (max-width: 1199px){ .menu { width: 100% !important; } }
 
 @media (max-width: 991px){ .u-section-1 .u-text-1 {width: 720px}
 .u-section-1 .u-text-2 {width: 720px}
@@ -264,26 +266,26 @@
 .u-section-11 .u-layout-cell-2 {min-height: auto}
 .u-section-11 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
 a.button1{
- display:inline-block;
- padding:0.35em 1.2em;
- border:0.1em solid #FFFFFF;
- margin:0 0.3em 0.3em 0;
- border-radius:0.12em;
- box-sizing: border-box;
- text-decoration:none;
- font-family:'Roboto',sans-serif;
- font-weight:300;
- color:#FFFFFF;
- text-align:center;
- transition: all 0.2s;
+â€ƒdisplay:inline-block;
+â€ƒpadding:0.35em 1.2em;
+â€ƒborder:0.1em solid #FFFFFF;
+â€ƒmargin:0 0.3em 0.3em 0;
+â€ƒborder-radius:0.12em;
+â€ƒbox-sizing: border-box;
+â€ƒtext-decoration:none;
+â€ƒfont-family:'Roboto',sans-serif;
+â€ƒfont-weight:300;
+â€ƒcolor:#FFFFFF;
+â€ƒtext-align:center;
+â€ƒtransition: all 0.2s;
 }
 a.button1:hover{
- color:#000000;
- background-color:#FFFFFF;
+â€ƒcolor:#000000;
+â€ƒbackground-color:#FFFFFF;
 }
 @media all and (max-width:30em){
- a.button1{
-  display:block;
-  margin:0.4em auto;
- }
+â€ƒa.button1{
+â€ƒâ€ƒdisplay:block;
+â€ƒâ€ƒmargin:0.4em auto;
+â€ƒ}
 }
