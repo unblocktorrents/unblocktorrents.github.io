@@ -1,4 +1,4 @@
-# TorrentBay Github Mirror 2024
+# TorrentBay Github Mirror 2025
 
 Unblock torrents worldwide through our torrent proxy index.
 Search on all unblocked torrent sites directly from our torrent search.
